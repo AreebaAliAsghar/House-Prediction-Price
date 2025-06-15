@@ -2,8 +2,6 @@
 
 Welcome to the **House Price Prediction Web App** — a machine learning project built using **Linear Regression** and **Streamlit**. This app allows users to estimate the price of a house based on various input features.
 
-![App Screenshot](./b64bc79b-01bd-44e9-b330-550eefbd12c1.png)
-
 ---
 
 ## 🚀 Features
